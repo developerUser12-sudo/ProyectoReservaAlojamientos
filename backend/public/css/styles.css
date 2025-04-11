@@ -1,0 +1,20 @@
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    font-size: 1.25rem;
+   
+}
+
+.navbar-brand i {
+    margin-right: 5px;
+    font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1rem;
+}
+
+
+.navbar-collapse{
+    margin-right: 11px;
+}
